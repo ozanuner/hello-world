@@ -1,3 +1,4 @@
 # hello-world
 
-Ozan github
+
+Github denemeler :)
